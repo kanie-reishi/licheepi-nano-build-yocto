@@ -1,0 +1,11 @@
+# Yocto build directories
+build-*/
+downloads/
+sstate-cache/
+tmp/
+
+# Logs and temporary files
+*.log
+*.swp
+*.sstate
+bitbake.lock
