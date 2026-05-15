@@ -1,4 +1,5 @@
-🚀 LicheePi Nano Embedded Linux Project (Yocto Version)
+🚀 LicheePi Nano Embedded Linux Project (Yocto Version) - FPT Telecom Embedded Bootcamp
+
 Dự án này thực hiện việc xây dựng một hệ điều hành Embedded Linux tối ưu cho board LicheePi Nano (Allwinner F1C100s) sử dụng Yocto Project (Kirkstone).
 Dự án này còn là nhật ký thực hành và nghiên cứu chuyên sâu về **Hệ thống Nhúng (Embedded Systems)**. Mục tiêu lớn nhất không chỉ là tạo ra một hệ điều hành chạy được, mà là hiểu rõ *bản chất* của từng dòng code và từng tiến trình biên dịch. 
 
